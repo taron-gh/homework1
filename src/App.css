@@ -1,0 +1,18 @@
+button{
+    margin: 5px;
+    font-size: 2em;
+}
+.App{
+    display: flex;
+    justify-content: center;
+}
+.num{
+    background-color: lightgrey;
+    height: 3em;
+    width: 3em;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.5em;
+}
